@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+    font-family:quicksand;
+    background-color: lightblue;
+    border-radius: 500px;
+}
+img{
+    height:200px;
+    border:2px solid blue;
+    
+}
+h1{
+    font-family:mali;
+    font-size:42px;
+    color:white;
+}
+p{
+    font-size:18px;
+    color: white;
+}
+ul{ 
+    font-size:18px;
+    color: white;
+}
+ol{
+    font-size:18px;
+    color:white;
+}
